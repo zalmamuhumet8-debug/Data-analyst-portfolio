@@ -6,7 +6,7 @@ I am an aspiring Data Analyst with a background in Computer Science and a strong
 
 I work with Python, SQL, Excel, and Power BI to clean, analyze, visualize, and communicate data.
 
-## my Skills
+## My Skills
 
 - Python
 - Pandas
