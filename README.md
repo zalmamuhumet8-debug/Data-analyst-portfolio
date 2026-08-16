@@ -1,12 +1,12 @@
 # Data Analyst Portfolio
 
-## 👋 About Me
+##  About Me
 
 I am an aspiring Data Analyst with a background in Computer Science and a strong interest in turning data into useful business insights.
 
 I work with Python, SQL, Excel, and Power BI to clean, analyze, visualize, and communicate data.
 
-## 🛠️ Skills
+## my Skills
 
 - Python
 - Pandas
@@ -65,7 +65,7 @@ Created an interactive sales dashboard to analyze sales performance by product, 
 | GitHub | Portfolio & Version Control |
 | Google Colab | Python Projects |
 
-## 🎯 Career Goal
+##  Career Goal
 
 I am looking for opportunities to start my career as a Junior Data Analyst and use data to help businesses make better decisions.
 
