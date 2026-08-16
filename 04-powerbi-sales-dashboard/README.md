@@ -4,7 +4,7 @@
 
 An interactive Sales Dashboard built with Microsoft Power BI to analyze sales performance and provide clear business insights.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall sales performance
 - Compare sales across products
@@ -13,7 +13,7 @@ An interactive Sales Dashboard built with Microsoft Power BI to analyze sales pe
 - Create interactive data visualizations
 - Present business insights through a dashboard
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Power BI
 - Power Query
@@ -31,7 +31,7 @@ An interactive Sales Dashboard built with Microsoft Power BI to analyze sales pe
 - Interactive City and Product Filters
 - Data Visualizations
 
-## 🔍 Key Insights
+##  Key Insights
 
 The dashboard provides an overview of sales performance and helps identify high-performing products, cities, and customers.
 
